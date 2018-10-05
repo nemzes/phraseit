@@ -1,0 +1,34 @@
+{
+  "name": "phraseit",
+  "version": "1.0.0",
+  "description": "Phraseit is a string templating engine for madlibs-style sentence generating. Forked from Sentencer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nemzes/phraser.git"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "gulp test"
+  },
+  "dependencies": {
+    "articles": "~0.2.1",
+    "randy": "~1.5.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-mocha": "^6.0.0"
+  },
+  "main": "index.js",
+  "keywords": [
+    "sentences",
+    "sentence",
+    "random",
+    "madlibs",
+    "metaphorpsum"
+  ],
+  "author": "Nelson Menezes",
+  "contributors": [
+    "Kyle Stetz"
+  ],
+  "license": "MIT"
+}
