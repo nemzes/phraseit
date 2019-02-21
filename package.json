@@ -4,7 +4,7 @@
   "description": "Phraseit is a string templating engine for madlibs-style sentence generating. Forked from Sentencer",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nemzes/phraser.git"
+    "url": "https://github.com/nemzes/phraseit.git"
   },
   "scripts": {
     "start": "node index.js",
