@@ -1,6 +1,6 @@
 {
   "name": "phraseit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Phraseit is a string templating engine for madlibs-style sentence generating. Forked from Sentencer",
   "repository": {
     "type": "git",
