@@ -15,8 +15,8 @@
     "randy": "~1.5.1"
   },
   "devDependencies": {
-    "gulp": "^4.0.0",
-    "gulp-mocha": "^6.0.0"
+    "gulp": "^4.0.2",
+    "gulp-mocha": "^7.0.2"
   },
   "main": "index.js",
   "keywords": [
